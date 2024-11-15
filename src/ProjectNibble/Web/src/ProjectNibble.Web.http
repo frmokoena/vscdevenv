@@ -1,0 +1,6 @@
+@ProjectNibble.Web_HostAddress = http://localhost:5014
+
+GET {{ProjectNibble.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
